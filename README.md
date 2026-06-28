@@ -17,8 +17,8 @@ My recent work is mostly about turning fuzzy AI-product ideas into running syste
 | Project | Focus |
 | --- | --- |
 | [Human Preference Tracking Conversational Agent](https://github.com/wusuiling-if/Human-Preference-Tracking-Conversational-Agent) | A conversational-agent experiment that updates a latent user preference model from natural follow-up messages, with LLM reward estimation and a FastAPI/WebSocket dashboard. |
+| [LLM Gateway](https://github.com/wusuiling-if/llm-gateway) | Multi-provider LLM API gateway with auth, quotas, rate limits, weighted routing, SSE streaming, usage logs, and an admin dashboard. |
 | [chatbot-page](https://github.com/wusuiling-if/chatbot-page) | A lightweight web chatbot prototype for quickly validating LLM interaction flows. |
-| LLM Gateway | Multi-provider LLM API gateway with auth, quotas, rate limits, weighted routing, SSE streaming, usage logs, and an admin dashboard. |
 | LangGraph Agent Lab | Emotional companion-agent prototype with routing, background analysis, vector memory, dynamic persona, and preference learning. |
 | Memory / RAG Services | Experiments around layered memory, summarization, vector retrieval, deduplication, and long-context personalization. |
 | Iris-Supervised Gaze Estimation | Graduation research scaffold for iris-assisted appearance-based gaze estimation with preprocessing, training, and evaluation scripts. |
